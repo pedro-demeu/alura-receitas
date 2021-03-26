@@ -15,3 +15,4 @@ Nessa aula:
 - Iniciamos o desenvolvimento da nossa aplicação com o comando django-admin start project alurareceita e subimos o servidor com o comando python manage.py runserver.
 
 # alura-receitas
+# alura-receitas
